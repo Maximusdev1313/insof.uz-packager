@@ -10,7 +10,7 @@
           aria-label="Menu"
           @click="toggleLeftDrawer"
         />
-
+        <router-link to="products" >Products</router-link>
         <q-toolbar-title>
           Quasar App
         </q-toolbar-title>
